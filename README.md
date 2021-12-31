@@ -16,14 +16,14 @@
 <hr>
 <br>
 
-## HTML e CSS Módulo  1/5 – 40 Horas
+## HTML e CSS Módulo 1/5 – 40 Horas
 <p>
   <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/html-css-modulo1.png?raw=true" alt = certificado html e css modulo 1">
 </p>
 <hr>
 <br>
 
-## HTML e CSS Módulo  2/5 – 40 Horas
+## HTML e CSS Módulo 2/5 – 40 Horas
 <p>
   <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/html-css-modulo2.png?raw=true" alt = "certificado html e css modulo 2">
 </p>
