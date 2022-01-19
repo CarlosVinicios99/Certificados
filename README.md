@@ -30,4 +30,11 @@
 <hr>
 <br>
 
+## C# Completo – 37 Horas
+<p>
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/C%23-completo.jpg?raw=true" alt = "certificado C# completo">
+</p>
+<hr>
+<br>
+
 
