@@ -2,19 +2,13 @@
 <hr>
 <br>
 
-## Python básico para programadores em C – 22 Horas
+## C# Completo – 37 Horas
 <p>
-  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/python-basico-para-programadores-em-c.png?raw=true" alt = "certificado python">
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/C%23-completo.jpg?raw=true" alt = "certificado C# completo">
 </p>
 <hr>
 <br>
 
-## Apredendo a programar em C++ – 5,5 Horas
-<p>
-  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/aprendendo-a-programar-em-c++.png?raw=true" alt = certificado C++">
-</p>
-<hr>
-<br>
 
 ## HTML e CSS Módulo 1/5 – 40 Horas
 <p>
@@ -30,11 +24,20 @@
 <hr>
 <br>
 
-## C# Completo – 37 Horas
+
+## Python básico para programadores em C – 22 Horas
 <p>
-  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/C%23-completo.jpg?raw=true" alt = "certificado C# completo">
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/python-basico-para-programadores-em-c.png?raw=true" alt = "certificado python">
 </p>
 <hr>
 <br>
+
+## Apredendo a programar em C++ – 5,5 Horas
+<p>
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/aprendendo-a-programar-em-c++.png?raw=true" alt = certificado C++">
+</p>
+<hr>
+<br>
+
 
 
