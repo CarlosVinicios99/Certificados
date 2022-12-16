@@ -2,6 +2,14 @@
 <hr>
 <br>
 
+## Java Completo – 77 Horas
+<p>
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/certificado_curso_Java_Completo_Cod3r.jpg?raw=true" alt = "certificado Java completo 77 horas">
+</p>
+<hr>
+<br>
+
+
 ## C# Completo – 37 Horas
 <p>
   <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/C%23-completo.jpg?raw=true" alt = "certificado C# completo">
