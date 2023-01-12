@@ -10,6 +10,14 @@
 <br>
 
 
+## Banco De Dados SQL e NoSQL – 52 Horas
+<p>
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/banco_de_dados_sql_e_nosql_do_basico_ao_avancado.jpg?raw=true" alt = "certificado Banco De dados 52 horas">
+</p>
+<hr>
+<br>
+
+
 ## C# Completo – 37 Horas
 <p>
   <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/C%23-completo.jpg?raw=true" alt = "certificado C# completo">
