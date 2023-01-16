@@ -2,9 +2,16 @@
 <hr>
 <br>
 
-## Java Completo – 77 Horas
+## Java Completo (Cod3r) – 77 Horas
 <p>
   <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/certificado_curso_Java_Completo_Cod3r.jpg?raw=true" alt = "certificado Java completo 77 horas">
+</p>
+<hr>
+<br>
+
+## Java Completo (DevSuperior) - 54.5 Horas
+<p>
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/certificado_Java_completo_devSuperior.jpg?raw=true" alt = "certificado Java completo 54.5 horas">
 </p>
 <hr>
 <br>
