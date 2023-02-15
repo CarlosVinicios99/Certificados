@@ -2,6 +2,13 @@
 <hr>
 <br>
 
+## Curso Desenvolvimento Web Moderno Completo – 97 Horas
+<p>
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/curso-web-moderno-completo.jpg?raw=true">
+</p>
+<hr>
+<br>
+
 ## Java Completo (Cod3r) – 77 Horas
 <p>
   <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/certificado_curso_Java_Completo_Cod3r.jpg?raw=true" alt = "certificado Java completo 77 horas">
