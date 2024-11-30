@@ -2,6 +2,13 @@
 <hr>
 <br>
 
+## Desenvolvimento De Aplicações Front-end Com ReactJS, Typescript, CSS e Tailwind - 13.5 Horas
+<p>
+  <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/desenvolvimento-de-front-end-react.jpg?raw=true">
+</p>
+<hr>
+<br>
+
 ## Desenvolvimento De APIs Restfull Com Java, Spring, MySQL e Docker - 41 Horas
 <p>
   <img src = "https://github.com/CarlosVinicios99/Certificados/blob/main/imagens-certificados/Desenvolvimento-De-APIs-Restfull-Com-Java-Spring-e-Docker.jpg?raw=true" alt = "Desenvolvimento de APIs Restfull Com Java, Spring, MySQL e Docker - 41 horas">
